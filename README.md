@@ -7,4 +7,4 @@
     <li>Chicken</li>
 </ol>
 
-Live Link: <a href="https://swiftanr.github.io/The-Odin-Recipies/">here</a>
+Live Link: <a href="https://swiftanr.github.io/The-Odin-Recipies/" target="_blank">here</a>
