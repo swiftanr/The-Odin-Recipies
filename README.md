@@ -1,6 +1,6 @@
 # The-Odin-Recipes
 
-## Contains 3 recipes on how to cook your favorite dishes.
+## Contains 3 recipes on how to cook your favourite dishes.
 <ol>
     <li>Bologna Sandwich</li>
     <li>Burger</li>
